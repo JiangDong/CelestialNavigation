@@ -1,4 +1,4 @@
 CelestialNavigation
 ===================
 
-Some work in Celestial Navigation System
+Some work in Celestial Navigation System. Jiang Dong
