@@ -1,4 +1,4 @@
 CelestialNavigation
 ===================
 
-Some works in Celestial Navigation System
+Some work in Celestial Navigation System
